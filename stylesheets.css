@@ -1,0 +1,120 @@
+@charset "utf-8";
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Calibri;
+background-image:url(images/carbon_bg.jpg);
+}
+.mainpage{
+	background-image:url(images/arches.png);
+}
+.indexpage{
+background-image:url(images/lite.png);
+}
+
+.logintable {
+	border:1px solid #993399;
+	-webkit-box-shadow: 1px 0px 16px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    1px 0px 16px rgba(50, 50, 50, 0.75);
+box-shadow:         1px 0px 16px rgba(50, 50, 50, 0.75);
+background-color:#FFF;
+}
+
+.tablehead {
+	font-size: 12px;
+	color:#ffffff;
+	font-weight:bold;
+}
+.notification {
+	font-size: 14px;
+	color:#ff0000;
+	font-weight:bold;
+}
+.menu {
+	background-color:#333;
+}
+.texts {
+	font-size: 14px;
+	color:#666666;
+}
+.college {
+	font-size: 25px;
+	color:#000000;
+}
+.budget {
+	font-size: 20px;
+	color:#FF0000;
+}
+.texts a{
+	font-size: 14px;
+	color:#666666;
+}
+.logo {
+	font-size: 24px;
+	color:#ffffff;
+	font-weight:bold;
+}
+.textfields {
+	font-size: 14px;
+	color:#666666;
+}
+.button {
+	font-size: 17px;
+	color: #ffffff;
+	border:1px solid #660066;
+	background-color:#993399;
+	padding:10px;
+	border: 2px solid;
+    border-radius: 10px;
+}
+.active{
+	font-size: 14px;
+	color: #ffffff;
+	border:1px solid #066;
+	background-color:#066;
+	padding:5px;
+}
+.normal{
+	font-size: 14px;
+	color: #ffffff;
+	padding:5px;
+}
+.active a{
+	font-size: 14px;
+	color: #ffffff;
+	border:1px solid #066;
+	background-color:#066;
+	padding:5px;
+	text-decoration:none;
+}
+.normal a{
+	font-size: 14px;
+	color: #ffffff;
+	padding:5px;
+	text-decoration:none;
+}
+li{
+	list-style:none;
+	display:inline;
+}
+
+.formhead{
+	font-size: 16px;
+	color:#ffffff;
+	font-weight:bold;
+	background-color:#993399;
+}
+.formtext{
+	font-size: 16px;
+}
+.formborders{
+	border:1px dotted #003;
+}.texts h1 {
+	color: #333;
+}
+.budget {
+	font-size: 20px;
+	color:#FF0000;
+}
